@@ -1,0 +1,28 @@
+Name: Ankit Sharma  
+Email: ankit.sharma@email.com  
+Phone: +91-9876543210  
+
+Objective:  
+Aspiring Data Analyst with strong analytical skills and hands-on experience in Python, Excel, and Power BI.
+
+Education:  
+B.Tech in Computer Science – ABC University – 2024  
+
+Skills:  
+- Python, Pandas, NumPy  
+- Data Visualization (Power BI, Matplotlib)  
+- SQL  
+- MS Excel  
+- Problem Solving  
+
+Projects:  
+1. Sales Dashboard using Power BI  
+2. Web Scraping with Python  
+
+Experience:  
+Intern – XYZ Analytics, Jaipur  
+- Cleaned and analyzed e-commerce data using Pandas  
+- Automated Excel reports  
+
+Certifications:  
+Google Data Analytics – Coursera  

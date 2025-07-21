@@ -1,0 +1,28 @@
+Name: Raj Patel  
+Email: raj.patel.dev@gmail.com  
+Phone: +91-9123456789  
+
+Objective:  
+To obtain a challenging position as a Software Developer where I can apply my coding skills and learn advanced technologies.
+
+Education:  
+B.E. in Information Technology – Mumbai Institute of Tech – 2023  
+
+Skills:  
+- Java, Python, C++  
+- Web Development (HTML, CSS, JavaScript, React)  
+- Node.js, MongoDB  
+- Git & GitHub  
+
+Projects:  
+1. Personal Portfolio Website  
+2. Chat App using React & Firebase  
+
+Experience:  
+Intern – ABC Software Pvt. Ltd.  
+- Contributed to frontend development in React  
+- Fixed bugs and worked on UI improvements  
+
+Achievements:  
+- CodeChef 3-star coder  
+- Hackathon finalist at TechFest IIT Bombay  
